@@ -143,6 +143,7 @@ config PM_WAKELOCKS_GC
 
 config PM
 	bool "Device power management core functionality"
+	default n
 	---help---
 	  Enable functionality allowing I/O devices to be put into energy-saving
 	  (low power) states, for example after a specified period of inactivity

@@ -1,6 +1,7 @@
 menu "CPU Frequency scaling"
 
 config CPU_FREQ
+	default n
 	bool "CPU Frequency scaling"
 	select SRCU
 	help
