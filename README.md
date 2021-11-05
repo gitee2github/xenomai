@@ -60,12 +60,20 @@ IDE
 
 姓名	公司	Gitee ID	邮箱
 郭皓	麒麟软件	guohaocs2c	guohao@kylinos.cn
+
 马玉昆	麒麟软件	kylin-mayukun	mayukun@kylinos.cn
+
 吴春光	麒麟软件	wuchunguang	wuchunguang@kylinos.cn
+
 丁丽丽	麒麟软件	blueskycs2c	dinglili@kylinos.cn
+
 张继文	麒麟软件	zhang-jiwen	zhangjiwen@kylinos.cn
+
 张茜	麒麟软件	zxiiiii	zhangxi@kylinos.cn
+
 黎亮	华为	liliang_euler	liliang889@huawei.com
+
 张攀	华为	SuperHugePan	zhangpan26@huawei.com
+
 
 
