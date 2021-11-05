@@ -59,6 +59,7 @@ IDE
 #### 参与贡献
 
 姓名	公司	Gitee ID	邮箱
+
 郭皓	麒麟软件	guohaocs2c	guohao@kylinos.cn
 
 马玉昆	麒麟软件	kylin-mayukun	mayukun@kylinos.cn
